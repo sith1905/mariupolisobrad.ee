@@ -95,7 +95,7 @@
         "main": true,
         "title": "Друзья Мариуполя",
         "meta_descr": "Благотворительная организация волонтеров, которые помогают украинским беженцам, прибывшим в Эстонию.",
-        "header_custom": "<meta property=\"og:url\" content=\"https://MariupoliSobrad.ee\">\n  <meta property=\"og:type\" content=\"website\">\n  <meta property=\"og:title\" content=\"Mariupoli Sõbrad\">\n  <meta property=\"og:description\" content=\"Charity volunteer organisation, helping Ukrainian war refugees who came to Estonia.\">\n  <meta property=\"fb:app_id\" content=\"none\">",
+        "header_custom": "<meta property=\"og:url\" content=\"https://MariupoliSobrad.ee\">\n  <meta property=\"og:type\" content=\"website\">\n  <meta property=\"og:title\" content=\"Mariupoli Sõbrad\">\n  <meta property=\"og:description\" content=\"Благотворительная организация волонтеров, которые помогают украинским беженцам, прибывшим в Эстонию.\">\n  <meta property=\"fb:app_id\" content=\"none\">",
         "footer_custom": "",
         "html_before": "",
         "socialSharingUrl": "https://mariupolisobrad.ee/assets/images/index-meta.png"
