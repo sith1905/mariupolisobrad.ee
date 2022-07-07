@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index-et.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -98,7 +98,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/og-v2-mf-1200x630.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/img-583-819x819.png"
       },
       "components": [
         {
