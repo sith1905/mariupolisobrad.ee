@@ -87,7 +87,9 @@
     "versionPublish": "5.6.11",
     "screenshot": "screenshot.png",
     "gdpr": false,
-    "global_header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-W4Q8CGFPMM\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-W4Q8CGFPMM');\n</script>\n\n<!-- Meta Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '723620309092103');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=723620309092103&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->"
+    "global_header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-W4Q8CGFPMM\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-W4Q8CGFPMM');\n</script>\n\n<!-- Meta Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '723620309092103');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=723620309092103&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->",
+    "publishType": "local",
+    "publishPath": "file:///Users/sith1905/Documents/GitHub/mariupolisobrad"
   },
   "pages": {
     "index.html": {
@@ -1124,7 +1126,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <iframe src=\"https://donationbox.ee/embed?iban=EE534204278619625400&amp;campaign_title=Help+for+Ukrainian+refugees+in+Estonia+%2F+abi+Ukraina+pagulastele+Eestis&amp;payee=Mittetulundus%C3%BChing+Mariupoli+Sõbrad&amp;detail=Help+for+Ukrainian+refugees+%2F+abi+Ukraina+pagulastele&amp;db=mariupoli-sobrad&amp;tax=1&amp;sebuid=7f741bb6-ecb3-4c39-a661-513fe1229fe1&amp;sebuid_st=2fd9407d-b827-4b5b-aae7-9889d5facc74\" width=\"100%\" height=\"970\" style=\"border:none;overflow:hidden\" scrolling=\"no\"></iframe>\n</div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <iframe src=\"https://donationbox.ee/embed?iban=EE534204278619625400&amp;campaign_title=Help+for+Ukrainian+refugees+in+Estonia+%2F+abi+Ukraina+pagulastele+Eestis&amp;payee=Mittetulundus%C3%BChing+Mariupoli+Sõbrad&amp;detail=Help+for+Ukrainian+refugees+%2F+abi+Ukraina+pagulastele&amp;db=mariupoli-sobrad&amp;tax=1&amp;sebuid=7f741bb6-ecb3-4c39-a661-513fe1229fe1&amp;sebuid_st=2fd9407d-b827-4b5b-aae7-9889d5facc74\" width=\"100%\" height=\"950\" style=\"border:none;overflow:hidden\" scrolling=\"no\"></iframe>\n</div>",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 0px 0;\n  color: #777;\n  text-align: center;\n  overflow: hidden;\n  overflow-x:hidden;\n  overflow-Y:hidden;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -1901,7 +1903,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <iframe src=\"https://donationbox.ee/embed?iban=EE534204278619625400&amp;campaign_title=Help+for+Ukrainian+refugees+in+Estonia+%2F+abi+Ukraina+pagulastele+Eestis&amp;payee=Mittetulundus%C3%BChing+Mariupoli+Sõbrad&amp;detail=Help+for+Ukrainian+refugees+%2F+abi+Ukraina+pagulastele&amp;db=mariupoli-sobrad&amp;tax=1&amp;sebuid=7f741bb6-ecb3-4c39-a661-513fe1229fe1&amp;sebuid_st=2fd9407d-b827-4b5b-aae7-9889d5facc74\" width=\"100%\" height=\"970\" style=\"border:none;overflow:hidden\" scrolling=\"no\"></iframe>\n</div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <iframe src=\"https://donationbox.ee/embed?iban=EE534204278619625400&amp;campaign_title=Help+for+Ukrainian+refugees+in+Estonia+%2F+abi+Ukraina+pagulastele+Eestis&amp;payee=Mittetulundus%C3%BChing+Mariupoli+Sõbrad&amp;detail=Help+for+Ukrainian+refugees+%2F+abi+Ukraina+pagulastele&amp;db=mariupoli-sobrad&amp;tax=1&amp;sebuid=7f741bb6-ecb3-4c39-a661-513fe1229fe1&amp;sebuid_st=2fd9407d-b827-4b5b-aae7-9889d5facc74\" width=\"100%\" height=\"950\" style=\"border:none;overflow:hidden\" scrolling=\"no\"></iframe>\n</div>",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 0px 0;\n  color: #777;\n  text-align: center;\n  overflow: hidden;\n  overflow-x:hidden;\n  overflow-Y:hidden;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -2678,7 +2680,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <iframe src=\"https://donationbox.ee/embed?iban=EE534204278619625400&amp;campaign_title=Help+for+Ukrainian+refugees+in+Estonia+%2F+abi+Ukraina+pagulastele+Eestis&amp;payee=Mittetulundus%C3%BChing+Mariupoli+Sõbrad&amp;detail=Help+for+Ukrainian+refugees+%2F+abi+Ukraina+pagulastele&amp;db=mariupoli-sobrad&amp;tax=1&amp;sebuid=7f741bb6-ecb3-4c39-a661-513fe1229fe1&amp;sebuid_st=2fd9407d-b827-4b5b-aae7-9889d5facc74\" width=\"100%\" height=\"970\" style=\"border:none;overflow:hidden\" scrolling=\"no\"></iframe>\n</div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <iframe src=\"https://donationbox.ee/embed?iban=EE534204278619625400&amp;campaign_title=Help+for+Ukrainian+refugees+in+Estonia+%2F+abi+Ukraina+pagulastele+Eestis&amp;payee=Mittetulundus%C3%BChing+Mariupoli+Sõbrad&amp;detail=Help+for+Ukrainian+refugees+%2F+abi+Ukraina+pagulastele&amp;db=mariupoli-sobrad&amp;tax=1&amp;sebuid=7f741bb6-ecb3-4c39-a661-513fe1229fe1&amp;sebuid_st=2fd9407d-b827-4b5b-aae7-9889d5facc74\" width=\"100%\" height=\"950\" style=\"border:none;overflow:hidden\" scrolling=\"no\"></iframe>\n</div>",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 0px 0;\n  color: #777;\n  text-align: center;\n  overflow: hidden;\n  overflow-x:hidden;\n  overflow-Y:hidden;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
