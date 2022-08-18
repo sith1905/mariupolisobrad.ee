@@ -2915,3 +2915,20 @@ a {
 .cid-taUmR3zjDW .media-container-row .mbr-text {
   color: #232323;
 }
+.cid-teQSw17FTr {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-teQSw17FTr .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-teQSw17FTr .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
