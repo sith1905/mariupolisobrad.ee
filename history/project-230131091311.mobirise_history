@@ -77,7 +77,7 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/logo-transp-new-128x128.png",
-    "mbrsiteDomain": "v7dgjmgqft",
+    "mbrsiteDomain": "qztmxelyj5",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -87,7 +87,9 @@
     "versionPublish": "5.6.11",
     "screenshot": "screenshot.png",
     "gdpr": false,
-    "global_header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-W4Q8CGFPMM\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-W4Q8CGFPMM');\n</script>\n\n<!-- Meta Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '723620309092103');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=723620309092103&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->"
+    "global_header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-W4Q8CGFPMM\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-W4Q8CGFPMM');\n</script>\n\n<!-- Meta Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '723620309092103');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=723620309092103&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->",
+    "publishType": "local",
+    "publishPath": "file:///Users/sith1905/Documents/GitHub/mariupolisobrad"
   },
   "pages": {
     "index.html": {
@@ -95,7 +97,7 @@
         "main": true,
         "title": "Друзья Мариуполя",
         "meta_descr": "Благотворительная организация волонтеров, которые помогают украинским беженцам, прибывшим в Эстонию.",
-        "header_custom": "<meta property=\"og:url\" content=\"https://MariupoliSobrad.ee\">\n  <meta property=\"og:type\" content=\"website\">\n  <meta property=\"og:title\" content=\"Mariupoli Sõbrad\">\n  <meta property=\"og:description\" content=\"Благотворительная организация волонтеров, которые помогают украинским беженцам, прибывшим в Эстонию.\">\n  <meta property=\"fb:app_id\" content=\"none\">",
+        "header_custom": "<meta property=\"og:url\" content=\"https://MariupoliSobrad.ee\">\n  <meta property=\"og:type\" content=\"website\">\n  <meta property=\"og:title\" content=\"Mariupoli Sõbrad\">\n  <meta property=\"og:description\" content=\"Благотворительная организация волонтеров, которые помогают украинским беженцам, прибывшим в Эстонию.\">\n  <meta property=\"fb:app_id\" content=\"none\">\n\n<script type=\"text/javascript\">window.$crisp=[];window.CRISP_WEBSITE_ID=\"a209af00-c3bf-4632-af46-0b08ea2880a1\";(function(){d=document;s=d.createElement(\"script\");s.src=\"https://client.crisp.chat/l.js\";s.async=1;d.getElementsByTagName(\"head\")[0].appendChild(s);})();</script>",
         "footer_custom": "",
         "html_before": "",
         "socialSharingUrl": "https://mariupolisobrad.ee/assets/images/index-meta.png"
@@ -870,7 +872,7 @@
       "settings": {
         "title": "Mariupol's Friends",
         "meta_descr": "Mariupol's Friends is a charity volunteer organisation, helping Ukrainian war refugees who came to Estonia.",
-        "header_custom": "",
+        "header_custom": "<script type=\"text/javascript\">window.$crisp=[];window.CRISP_WEBSITE_ID=\"a209af00-c3bf-4632-af46-0b08ea2880a1\";(function(){d=document;s=d.createElement(\"script\");s.src=\"https://client.crisp.chat/l.js\";s.async=1;d.getElementsByTagName(\"head\")[0].appendChild(s);})();</script>",
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/og-v2-mf-1200x630.png",
@@ -1647,7 +1649,7 @@
       "settings": {
         "title": "Mariupoli Sõbrad",
         "meta_descr": "Mariupoli Sõbrad on heategevuslik vabatahtlike organisatsioon, mis aitab Eestisse saabunud Ukraina pagulasi.",
-        "header_custom": "",
+        "header_custom": "<script type=\"text/javascript\">window.$crisp=[];window.CRISP_WEBSITE_ID=\"a209af00-c3bf-4632-af46-0b08ea2880a1\";(function(){d=document;s=d.createElement(\"script\");s.src=\"https://client.crisp.chat/l.js\";s.async=1;d.getElementsByTagName(\"head\")[0].appendChild(s);})();</script>",
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/og-v2-mf-1200x630.png",
@@ -2424,7 +2426,7 @@
       "settings": {
         "title": "Друзі Маріуполя",
         "meta_descr": "Друзі Маріуполя – благодійна організація волонтерів, які допомагають українським біженцям, що прибули до Естонії.",
-        "header_custom": "",
+        "header_custom": "<script type=\"text/javascript\">window.$crisp=[];window.CRISP_WEBSITE_ID=\"a209af00-c3bf-4632-af46-0b08ea2880a1\";(function(){d=document;s=d.createElement(\"script\");s.src=\"https://client.crisp.chat/l.js\";s.async=1;d.getElementsByTagName(\"head\")[0].appendChild(s);})();</script>",
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/og-v2-mf-1200x630.png",
